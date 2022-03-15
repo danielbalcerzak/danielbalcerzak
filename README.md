@@ -1,7 +1,7 @@
 **Hi there**
 
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested in in electricity technologies
+- 👀 I’m interested in electricity production technologies
 - 🌱 I’m currently study IT systems engineering
 
 <!---
